@@ -15,7 +15,7 @@ const Intro = () => {
           />
         </figure>
         <div>
-          <h1 className="font-bold text-4xl md:text-5xl text-neutral-700">{siteConfig.name}</h1>
+          <h1 className="font-bold text-4xl md:text-5xl text-neutral-700 dark:text-neutral-50">{siteConfig.name}</h1>
           <p className="text-md md:text-lg mt-1">Engineering Leader and Developer based in UAE</p>
         </div>
       </div>
